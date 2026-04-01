@@ -33,3 +33,7 @@ POST /recommend (Protected)
 {
 "favorite_movies": ["Inception", "Jumanji"]
 }
+
+## Live Demo
+
+https://your-app.onrender.com/docs
