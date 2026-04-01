@@ -36,4 +36,4 @@ POST /recommend (Protected)
 
 ## Live Demo
 
-https://your-app.onrender.com/docs
+https://ai-movie-recommender-mfga.onrender.com/docs
